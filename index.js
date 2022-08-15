@@ -4,7 +4,7 @@ class TodoItem {
     this.completed = completed;
     this.id = id;
   }
-}
+};
 
 class TodoArray {
   constructor() {
